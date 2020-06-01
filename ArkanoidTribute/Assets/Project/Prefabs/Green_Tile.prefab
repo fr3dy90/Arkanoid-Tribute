@@ -122,6 +122,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rank: 0
-  touchesUnyilDestroy: 2
+  touchesUntilDestroy: 2
   scoreByTouch: 0
   scoreByDestroy: 0

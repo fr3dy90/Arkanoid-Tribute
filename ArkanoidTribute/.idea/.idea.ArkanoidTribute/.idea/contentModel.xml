@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\death\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\death\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ArkanoidTribute.-1468896399.00" t="ExcludeRecursive" />
+    <e p="C:\Users\death\Documents\Git_Proyects\Arkanoid\Arkanoid-Tribute\ArkanoidTribute" t="IncludeRecursive">
+      <e p="ArkanoidTribute.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Project" t="Include">
+          <e p="Code" t="Include">
+            <e p="Background" t="Include">
+              <e p="BackGroundBH.cs" t="Include" />
+            </e>
+            <e p="GameActors" t="Include">
+              <e p="Ball.cs" t="Include" />
+              <e p="LevelGenerator.cs" t="Include" />
+              <e p="Tile.cs" t="Include" />
+            </e>
+            <e p="Managers" t="Include">
+              <e p="GameManager.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="Player.cs" t="Include" />
+            </e>
+          </e>
+          <e p="GameSettings" t="Include">
+            <e p="GameData.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
